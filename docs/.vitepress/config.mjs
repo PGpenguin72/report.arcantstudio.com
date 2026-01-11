@@ -5,6 +5,6 @@ export default {
   cleanUrls: true, // ✅ 這個很關鍵：/RPT-xxx 不用 .html
   themeConfig: {
     nav: [{ text: "首頁", link: "/" }],
-    footer: { message: "2025 Arcant Studio｜極區工作室" }
+    footer: { message: "2026 Arcant Studio｜極區工作室" }
   }
 };
